@@ -1,6 +1,0 @@
-num1=int(input("take a number:"))
-num2=int(input("take a number:"))
-num3=int(input("take a number:"))
-largest_number= max(num1,num2,num3)
-smallest_number= min(num1,num2,num3)
-print ("largest number is {}, and smallest number is {}".format(largest_number,smallest_number))
