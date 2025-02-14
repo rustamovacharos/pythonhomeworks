@@ -1,0 +1,2 @@
+What is the difference between the continue and break statements in Python?
+both used in loop,their difference is break exits the loop completely after the solution is true,while continue just skips current iteration and works with following one
